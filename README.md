@@ -1,3 +1,5 @@
+![sistemao](https://user-images.githubusercontent.com/91217656/176745210-e692a52d-31b9-45d1-8b95-a0b9e2a8389c.png)
+
 ## Comandos
 
 - `docker-compose up -d` (Cria o container do docker)
